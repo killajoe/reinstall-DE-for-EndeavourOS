@@ -1,0 +1,1 @@
+sudo pacman -S --needed deepin deepin-extra deepin-kwin lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings file-roller
