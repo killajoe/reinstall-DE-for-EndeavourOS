@@ -1,0 +1,1 @@
+sudo pacman -S --needed cinnamon blueberry cinnamon-translations gnome-terminal gnome-system-monitor gpicview-gtk3 celluloid x-apps file-roller lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings nemo-fileroller nemo-image-converter nemo-preview nemo-seahorse nemo-share gnome-screenshot gnome-calculator xdg-user-dirs-gtk arc-x-icons-theme arc-gtk-theme
