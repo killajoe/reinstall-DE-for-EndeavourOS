@@ -1,0 +1,1 @@
+sudo pacman -S --needed budgie-desktop gnome gnome-screensaver lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings network-manager-applet xdg-user-dirs-gtk fwupd arc-x-icons-theme arc-gtk-theme
