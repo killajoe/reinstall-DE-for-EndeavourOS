@@ -1,1 +1,1 @@
-sudo pacman -S --needed plasma kdeconnect fwupd python-dbus kde-system-meta kde-utilities-meta gwenview kdegraphics-thumbnailers ark okular spectacle
+sudo pacman -S --needed plasma kdeconnect fwupd python-dbus kde-system-meta kde-utilities-meta kio-fuse kio-gdrive audiocd-kio gwenview kdegraphics-thumbnailers ark okular dragon elisa print-manager spectacle
