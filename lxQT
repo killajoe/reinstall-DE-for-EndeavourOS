@@ -1,1 +1,24 @@
-sudo pacman -S --needed lxqt xdg-utils sddm libpulse libstatgrab libsysstat lm_sensors network-manager-applet oxygen-icons breeze breeze-gtk featherpad smplayer pavucontrol-qt xscreensaver
+lxqt
+xdg-utils
+sddm
+libpulse
+libstatgrab
+libsysstat
+lm_sensors
+network-manager-applet
+oxygen-icons
+breeze
+breeze-gtk
+featherpad
+pavucontrol-qt
+xscreensaver
+print-manager
+smplayer
+gvfs
+gvfs-mtp
+lxqt-archiver
+qt5-translations
+kio-fuse
+kio-gdrive
+audiocd-kio
+kdiff3
