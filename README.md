@@ -1,6 +1,11 @@
 # reinstall-DE-for-EndeavourOS
 
-pacman command to install/reinstall EndeavourOS package selection for DE 
+`git clone https://github.com/killajoe/reinstall-DE-for-EndeavourOS.git`
+`cd reinstall-DE-for-EndeavourOS`
 
+`sudo pacman -S --needed - < <de-wm-name to reinstall>`
 
-[![](https://sourcerer.io/fame/killajoe/killajoe/reinstall-DE-for-EndeavourOS/images/0)](https://sourcerer.io/fame/killajoe/killajoe/reinstall-DE-for-EndeavourOS/links/0)[![](https://sourcerer.io/fame/killajoe/killajoe/reinstall-DE-for-EndeavourOS/images/1)](https://sourcerer.io/fame/killajoe/killajoe/reinstall-DE-for-EndeavourOS/links/1)[![](https://sourcerer.io/fame/killajoe/killajoe/reinstall-DE-for-EndeavourOS/images/2)](https://sourcerer.io/fame/killajoe/killajoe/reinstall-DE-for-EndeavourOS/links/2)[![](https://sourcerer.io/fame/killajoe/killajoe/reinstall-DE-for-EndeavourOS/images/3)](https://sourcerer.io/fame/killajoe/killajoe/reinstall-DE-for-EndeavourOS/links/3)[![](https://sourcerer.io/fame/killajoe/killajoe/reinstall-DE-for-EndeavourOS/images/4)](https://sourcerer.io/fame/killajoe/killajoe/reinstall-DE-for-EndeavourOS/links/4)[![](https://sourcerer.io/fame/killajoe/killajoe/reinstall-DE-for-EndeavourOS/images/5)](https://sourcerer.io/fame/killajoe/killajoe/reinstall-DE-for-EndeavourOS/links/5)[![](https://sourcerer.io/fame/killajoe/killajoe/reinstall-DE-for-EndeavourOS/images/6)](https://sourcerer.io/fame/killajoe/killajoe/reinstall-DE-for-EndeavourOS/links/6)[![](https://sourcerer.io/fame/killajoe/killajoe/reinstall-DE-for-EndeavourOS/images/7)](https://sourcerer.io/fame/killajoe/killajoe/reinstall-DE-for-EndeavourOS/links/7)
+where `<de-wm-name to reinstall>` is one of the text files from this repo including `eos-base-group` what will install needed packages would be there on a default install.
+
+example:
+`sudo pacman -S --needed - < xfce4`
