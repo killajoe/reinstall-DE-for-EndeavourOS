@@ -4,6 +4,9 @@
 
 `cd reinstall-DE-for-EndeavourOS`
 
+`ls`
+will list the files
+
 `sudo pacman -S --needed - < <de-wm-name to reinstall>`
 
 where `<de-wm-name to reinstall>` is one of the text files from this repo including `eos-base-group` what will install needed packages would be there on a default install.
