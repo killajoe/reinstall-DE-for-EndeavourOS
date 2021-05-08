@@ -1,1 +1,19 @@
-sudo pacman -S --needed gnome gnome-tweaks nautilus-sendto gnome-nettool gnome-usage adwaita-icon-theme chrome-gnome-shell xdg-user-dirs-gtk
+gnome
+gnome-tweaks
+nautilus-sendto
+gnome-nettool
+gnome-usage
+gnome-multi-writer
+adwaita-icon-theme
+xdg-user-dirs-gtk
+arc-gtk-theme-eos
+arc-x-icons-theme
+gvfs
+gvfs-mtp
+gvfs-afc
+gvfs-goa
+gvfs-google
+gvfs-gphoto2
+gvfs-nfs
+gvfs-smb
+diffuse
