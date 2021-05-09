@@ -14,3 +14,23 @@ where `<de-wm-name to reinstall>` is one of the text files from this repo includ
 example:
 
 `sudo pacman -S --needed - < xfce4`
+
+`sudo pacman -S --needed - < budgie
+
+`sudo pacman -S --needed - < cinnamon`
+
+`sudo pacman -S --needed - < deepin`
+
+`sudo pacman -S --needed - < eos-base-group`
+
+`sudo pacman -S --needed - < gnome`
+
+`sudo pacman -S --needed - < i3`
+
+`sudo pacman -S --needed - < lxqt`
+
+`sudo pacman -S --needed - < mate`
+
+`sudo pacman -S --needed - < openbox`
+
+`sudo pacman -S --needed - < plasma`
