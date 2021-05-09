@@ -21,8 +21,6 @@ example:
 
 `sudo pacman -S --needed - < deepin`
 
-`sudo pacman -S --needed - < eos-base-group`
-
 `sudo pacman -S --needed - < gnome`
 
 `sudo pacman -S --needed - < i3`
