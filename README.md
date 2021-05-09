@@ -15,7 +15,7 @@ example:
 
 `sudo pacman -S --needed - < xfce4`
 
-`sudo pacman -S --needed - < budgie
+`sudo pacman -S --needed - < budgie`
 
 `sudo pacman -S --needed - < cinnamon`
 
@@ -34,3 +34,5 @@ example:
 `sudo pacman -S --needed - < openbox`
 
 `sudo pacman -S --needed - < plasma`
+
+`sudo pacman -S --needed - < eos-base-group`
